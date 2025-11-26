@@ -1,0 +1,5 @@
+{
+  "name": "ProtoSim: I2C & UART Explorer",
+  "description": "An interactive, visual simulator for understanding I2C and UART communication protocols with real-time signal visualization and AI-powered explanations.",
+  "requestFramePermissions": []
+}
